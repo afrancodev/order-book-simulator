@@ -76,6 +76,8 @@ mvn clean compile exec:java
 
 Created by [afrancodev](https://github.com/afrancodev) — Open source ❤️
 
+Feel free to fork this repository and add your own changes!
+
 ---
 
 ## License
