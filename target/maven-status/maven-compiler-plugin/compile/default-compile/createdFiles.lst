@@ -1,0 +1,7 @@
+com\afrancodev\orderbook\service\TradePublisher.class
+com\afrancodev\orderbook\model\OrderSide.class
+com\afrancodev\orderbook\App.class
+com\afrancodev\orderbook\engine\OrderBook.class
+com\afrancodev\orderbook\engine\MatchingEngine.class
+com\afrancodev\orderbook\model\Trade.class
+com\afrancodev\orderbook\model\Order.class
