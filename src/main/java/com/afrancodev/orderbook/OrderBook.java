@@ -87,7 +87,7 @@ public class OrderBook {
         if (!buy.isMarketOrder() && sell.isMarketOrder()) {
             return buy.getPrice();
         }
-        return sell.getPrice(); // or midpoint logic if desired
+        return sell.getPrice();
     }
 
     public void expireOldOrders() {
