@@ -60,16 +60,11 @@ mvn clean compile exec:java
 
 ---
 
-## Future Enhancements
-
-- [ ] Add candle stick chart type
-- [ ] Add menu bar with settings dropdown
-- [ ] Add settings panel to tweak some variables
-- [ ] Add option to pause and restart simulation
-- [ ] Add information about global metrics
-    - Ticks simulated
-    - Amount of different types of orders: limit and market
-    - Time passed
+## Some ideas on the roadmap:
+- 🕯️ Candlestick chart type  
+- ⏸️ Pause/resume simulation  
+- ⚙️ Settings panel (spread, speed, order size)  
+- 📊 Global metrics (order stats, time elapsed)
 ---
 
 ## Credits
